@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"load",
+				"load_model	CI - Load Model"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"fun",
+				"fun	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "inicio.php",
+			"settings":
+			{
+				"buffer_size": 14057,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/codeigniter3/application/views/torpes/admin/temporadas_usuarios.php",
+			"settings":
+			{
+				"buffer_size": 5666,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin/jornada.php",
+			"settings":
+			{
+				"buffer_size": 34660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/codeigniter3/application/views/torpes/cabecera.php",
+			"settings":
+			{
+				"buffer_size": 8794,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "Package Control: pac",
+		"selected_items":
+		[
+			[
+				"Package Control: pac",
+				"Package Control: List Packages"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"blockr",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"snippet:ci",
+				"Snippet: CI - Get ip address"
+			],
+			[
+				"codeig",
+				"Snippet: CI - Session - Destroying a Session"
+			],
+			[
+				"boo",
+				"Snippet: bs3-block-button"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ci",
+				"Snippet: CI - Form Open"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"command: alignment",
+			"alignment",
+			"https://packagecontrol.io/",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"make JavaScript;"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/xampp/htdocs/codeigniter3/application/controllers/torpes",
+		"/F/xampp/htdocs/codeigniter3/application/controllers/torpes/admin",
+		"/F/xampp/htdocs/codeigniter3/application/views/torpes",
+		"/F/xampp/htdocs/codeigniter3/application/views/torpes/admin"
+	],
+	"file_history":
+	[
+		"/F/xampp/htdocs/codeigniter3/application/views/torpes/clasificacion_general.php",
+		"/F/xampp/htdocs/codeigniter3/application/views/torpes/clasificacion_peq_jor.php",
+		"/F/xampp/htdocs/codeigniter3/application/views/torpes/clasificacion_peq_potras.php",
+		"/F/xampp/htdocs/codeigniter3/application/views/torpes/clasificacion_peq.php",
+		"/D/Users/cdeespan/Desktop/test.js",
+		"/D/Users/cdeespan/Downloads/Sublime Text Build 3103 x64/Data/Packages/Alignment/Base File.sublime-settings",
+		"/D/Users/cdeespan/Downloads/Sublime Text Build 3103 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/D/Users/cdeespan/Downloads/Sublime Text Build 3103 x64/Data/Packages/Terminal/Base File.sublime-settings",
+		"/D/Users/cdeespan/Downloads/Sublime Text Build 3103 x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Users/cdeespan/Downloads/Sublime Text Build 3103 x64/Data/Packages/Project PHP ClassBrowser/ProjectPHPClassBrowser.sublime-settings",
+		"/D/Users/cdeespan/Downloads/Sublime Text Build 3103 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Users/cdeespan/Downloads/Sublime Text Build 3103 x64/Data/Packages/User/JavaScript.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"porra los",
+			"4",
+			"tree",
+			"folder"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "F:\\xampp\\htdocs\\codeigniter3\\application\\controllers\\torpes"
+		},
+		{
+			"path": "F:\\xampp\\htdocs\\codeigniter3\\application\\views\\torpes"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "inicio.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3941,
+								3895
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1159.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/xampp/htdocs/codeigniter3/application/views/torpes/admin/temporadas_usuarios.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "admin/jornada.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2083,
+								2083
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/F/xampp/htdocs/codeigniter3/application/views/torpes/cabecera.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3648,
+								3648
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
