@@ -1,2 +1,6 @@
 ssss
+<<<<<<< Updated upstream
 Linea nueva
+=======
+test2
+>>>>>>> Stashed changes
