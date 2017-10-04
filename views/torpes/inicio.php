@@ -28,6 +28,7 @@
 					// Tiempo hasta cerrar jornada
 					?>
 					<!-- INICIO -->
+					<!--
 					<div class="row">
 						<div class="col-sm-12 col-md-12 col-xs-12 text-center">
 							<link rel="stylesheet" href="<?=base_url()?>/css/jquery.countdown.css">
@@ -57,6 +58,7 @@
 							</div>
 						</div>
 					</div>
+					-->
 					<!-- FIN -->
 					<?php
 					if ($rs->num_rows() > 0) {
